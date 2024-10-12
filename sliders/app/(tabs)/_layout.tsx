@@ -33,7 +33,7 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="slider"
+        name="sliderColor"
         options={{
           title: 'Slider',
           tabBarIcon: ({ color, focused }) => (
